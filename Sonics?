@@ -40,11 +40,11 @@
 "mascot": "76ers",
 "short": "PHI",
 "homeText": "FFFFFF",
-"homeMain": "006BB6",
-"homeSecondary": "ED174C",
-"awayText": "006BB6",
+"homeMain": "003DA5",
+"homeSecondary": "D50032",
+"awayText": "003DA5",
 "awayMain": "FFFFFF",
-"awaySecondary": "ED174C",
+"awaySecondary": "D50032",
 "logoURL": "https://raw.githubusercontent.com/Wilsted/Pics/main/Sixers%202.png"
 },
 {
@@ -64,11 +64,11 @@
 "mascot": "Bulls",
 "short": "CHI",
 "homeText": "FFFFFF",
-"homeMain": "CE1141",
+"homeMain": "BC032B",
 "homeSecondary": "000000",
-"awayText": "CE1141",
+"awayText": "BC032B",
 "awayMain": "FFFFFF",
-"awaySecondary": "000000",
+"awaySecondary": "BC032B",
 "logoURL": "https://dl.dropbox.com/s/zv2ppdd103v740h/bulls.png"
 },
 {
@@ -90,9 +90,9 @@
 "homeText": "FFFFFF",
 "homeMain": "1D42BA",
 "homeSecondary": "C8102E",
-"awayText": "1D42BA",
+"awayText": "C8102E",
 "awayMain": "FFFFFF",
-"awaySecondary": "C8102E",
+"awaySecondary": "1D42BA",
 "logoURL": "https://dl.dropbox.com/s/nqr42w8zry3ek28/pistons.png"
 },
 {
@@ -317,10 +317,10 @@
 "short": "HOU",
 "homeText": "FFFFFF",
 "homeMain": "CE1141",
-"homeSecondary": "000000",
+"homeSecondary": "C4CED4",
 "awayText": "CE1141",
 "awayMain": "FFFFFF",
-"awaySecondary": "000000",
+"awaySecondary": "C4CED4",
 "logoURL": "https://raw.githubusercontent.com/Wilsted/Pics/main/White%20Rockets.png"
 },
 {
