@@ -33,7 +33,7 @@
 "awayText": "006BB6",
 "awayMain": "FFFFFF",
 "awaySecondary": "F58426",
-"logoURL": "https://dl.dropbox.com/s/xuo57vd0gyhrlj8/knicks.png"
+"logoURL": "https://raw.githubusercontent.com/Wilsted/Pics/main/knicks.png"
 },
 {
 "city": "Philadelphia",
@@ -45,7 +45,7 @@
 "awayText": "006BB6",
 "awayMain": "FFFFFF",
 "awaySecondary": "ED174C",
-"logoURL": "https://dl.dropbox.com/s/o7y1ux0fjiskz0o/76ers.png"
+"logoURL": "https://raw.githubusercontent.com/Wilsted/Pics/main/Sixers%202.png"
 },
 {
 "city": "Toronto",
@@ -201,7 +201,7 @@
 "awayText": "0C2340",
 "awayMain": "FFFFFF",
 "awaySecondary": "236192",
-"logoURL": "https://dl.dropbox.com/s/rwfrtkb5uqtlnnl/timberwolves.png"
+"logoURL": "https://raw.githubusercontent.com/Wilsted/Pics/main/TWolves%202.png"
 },
 {
 "city": "Seattle",
@@ -213,7 +213,7 @@
 "awayText": "00653A",
 "awayMain": "FFFFFF",
 "awaySecondary": "FFC200",
-"logoURL": "https://raw.githubusercontent.com/Wilsted/Pics/main/SEA.png"
+"logoURL": "https://raw.githubusercontent.com/Wilsted/Pics/main/Sonics%20(1).png"
 },
 {
 "city": "Portland",
@@ -297,7 +297,7 @@
 "awayText": "5A2D81",
 "awayMain": "FFFFFF",
 "awaySecondary": "63727A",
-"logoURL": "https://dl.dropbox.com/s/f1uamckcbm9fn0z/kings.png"
+"logoURL": "https://raw.githubusercontent.com/Wilsted/Pics/main/SAC%202.png"
 },
 {
 "city": "Dallas",
@@ -321,7 +321,7 @@
 "awayText": "CE1141",
 "awayMain": "FFFFFF",
 "awaySecondary": "000000",
-"logoURL": "https://dl.dropbox.com/s/252gktsejwllxlb/rockets.png"
+"logoURL": "https://raw.githubusercontent.com/Wilsted/Pics/main/Rockets%202.png"
 },
 {
 "city": "Memphis",
