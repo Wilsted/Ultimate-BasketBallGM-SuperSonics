@@ -28,11 +28,11 @@
 "mascot": "Knicks",
 "short": "NYK",
 "homeText": "FFFFFF",
-"homeMain": "006BB6",
-"homeSecondary": "F58426",
-"awayText": "006BB6",
+"homeMain": "003DA6",
+"homeSecondary": "FF671B",
+"awayText": "003DA6",
 "awayMain": "FFFFFF",
-"awaySecondary": "F58426",
+"awaySecondary": "FF671B",
 "logoURL": "https://raw.githubusercontent.com/Wilsted/Pics/main/knicks.png"
 },
 {
@@ -52,11 +52,11 @@
 "mascot": "Raptors",
 "short": "TOR",
 "homeText": "FFFFFF",
-"homeMain": "CE1141",
+"homeMain": "BE0F34",
 "homeSecondary": "000000",
-"awayText": "CE1141",
+"awayText": "BE0F34",
 "awayMain": "FFFFFF",
-"awaySecondary": "000000",
+"awaySecondary": "BE0F34",
 "logoURL": "https://dl.dropbox.com/s/kjc3yw2ruav0tf4/raptors.png"
 },
 {
@@ -149,10 +149,10 @@
 "short": "MIA",
 "homeText": "FFFFFF",
 "homeMain": "98002E",
-"homeSecondary": "F9A01B",
+"homeSecondary": "000000",
 "awayText": "98002E",
 "awayMain": "FFFFFF",
-"awaySecondary": "F9A01B",
+"awaySecondary": "98002E",
 "logoURL": "https://dl.dropbox.com/s/txvlmcagf7vzsqh/heat.png"
 },
 {
@@ -160,9 +160,9 @@
 "mascot": "Magic",
 "short": "ORL",
 "homeText": "FFFFFF",
-"homeMain": "0077C0",
+"homeMain": "0075BD",
 "homeSecondary": "000000",
-"awayText": "0077C0",
+"awayText": "0075BD",
 "awayMain": "FFFFFF",
 "awaySecondary": "000000",
 "logoURL": "https://dl.dropbox.com/s/q1bs26gv3w0dvr4/magic.png"
@@ -220,11 +220,11 @@
 "mascot": "Trail Blazers",
 "short": "POR",
 "homeText": "FFFFFF",
-"homeMain": "E03A3E",
+"homeMain": "D00328",
 "homeSecondary": "000000",
-"awayText": "E03A3E",
+"awayText": "000000",
 "awayMain": "FFFFFF",
-"awaySecondary": "000000",
+"awaySecondary": "D00328",
 "logoURL": "https://dl.dropbox.com/s/rrnf9bp4y9pqj74/trailblazers.png"
 },
 {
@@ -256,11 +256,11 @@
 "mascot": "Clippers",
 "short": "LAC",
 "homeText": "FFFFFF",
-"homeMain": "006BB8",
-"homeSecondary": "EE114A",
-"awayText": "EE114A",
+"homeMain": "1D4294",
+"homeSecondary": "C8102E",
+"awayText": "C8102E",
 "awayMain": "FFFFFF",
-"awaySecondary": "006BB8",
+"awaySecondary": "1D4294",
 "logoURL": "https://dl.dropbox.com/s/lw7bnzunzvo4l47/clippers.png"
 },
 {
@@ -270,9 +270,9 @@
 "homeText": "FFFFFF",
 "homeMain": "FDB927",
 "homeSecondary": "552583",
-"awayText": "FDB927",
+"awayText": "552583",
 "awayMain": "FFFFFF",
-"awaySecondary": "552583",
+"awaySecondary": "FDB927",
 "logoURL": "https://dl.dropbox.com/s/g7ug46b3ylejosu/lakers.png"
 },
 {
@@ -304,9 +304,9 @@
 "mascot": "Mavericks",
 "short": "DAL",
 "homeText": "FFFFFF",
-"homeMain": "00538C",
+"homeMain": "1064AC",
 "homeSecondary": "002B5E",
-"awayText": "00538C",
+"awayText": "002B5E",
 "awayMain": "FFFFFF",
 "awaySecondary": "002B5E",
 "logoURL": "https://dl.dropbox.com/s/1r5857l4yonbh8r/mavericks.png"
@@ -341,10 +341,10 @@
 "short": "NOP",
 "homeText": "FFFFFF",
 "homeMain": "0C2340",
-"homeSecondary": "C8102E",
+"homeSecondary": "B4975A",
 "awayText": "0C2340",
 "awayMain": "FFFFFF",
-"awaySecondary": "C8102E",
+"awaySecondary": "B4975A",
 "logoURL": "https://dl.dropbox.com/s/8eqhc1eo3cj9c78/pelicans.png"
 },
 {
@@ -352,11 +352,11 @@
 "mascot": "Spurs",
 "short": "SAS",
 "homeText": "FFFFFF",
-"homeMain": "C4CED4",
-"homeSecondary": "000000",
-"awayText": "C4CED4",
+"homeMain": "000000",
+"homeSecondary": "C4CED4",
+"awayText": "000000",
 "awayMain": "FFFFFF",
-"awaySecondary": "000000",
+"awaySecondary": "C4CED4",
 "logoURL": "https://dl.dropbox.com/s/49kjddkrblgrtvc/spurs.png"
 }
 ]
