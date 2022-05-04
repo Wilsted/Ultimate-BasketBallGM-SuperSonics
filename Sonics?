@@ -268,11 +268,11 @@
 "mascot": "Lakers",
 "short": "LAL",
 "homeText": "FFFFFF",
-"homeMain": "FDB927",
-"homeSecondary": "552583",
-"awayText": "552583",
-"awayMain": "FFFFFF",
-"awaySecondary": "FDB927",
+"homeMain": "552583",
+"homeSecondary": "FDB927",
+"awayText": "FFFFFF",
+"awayMain": "FDB927",
+"awaySecondary": "552583",
 "logoURL": "https://dl.dropbox.com/s/g7ug46b3ylejosu/lakers.png"
 },
 {
